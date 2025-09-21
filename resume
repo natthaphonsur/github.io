@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Resume - Natthaphon Surat</title>
+</head>
+<body>
+  <h1>My Resume</h1>
+  <p>You can download my resume here:</p>
+  <a href="Resume.pdf" target="_blank">📄 Download Resume (PDF)</a>
+</body>
+</html>
